@@ -22,9 +22,13 @@ This Java project implements a car parking system that can accommodate different
 ## Implementation Details
 
 - The project is organized into packages, each representing different aspects of the parking lot system, such as `parkinglot`, `coststrategy`, etc.
+
 - The main functionality is implemented in classes such as `ParkingLot`, `Vehicle`, `Floor`, and `VehicleSpace`.
+
 - A `CostStrategy` class is provided for implementing various cost strategies for parking fees.
+
 - The code is designed to be easily extensible, allowing for the addition of new vehicle types or cost strategies with minimal changes.
+
 - Error handling is implemented to handle cases such as full parking capacity.
 
 ## How to Run
