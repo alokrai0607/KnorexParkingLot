@@ -1,3 +1,4 @@
+
 # KnorexParkingLot
 
 This Java project implements a car parking system that can accommodate different types of vehicles and supports configurable cost strategies.
@@ -40,6 +41,6 @@ This Java project implements a car parking system that can accommodate different
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or find any issues, please open an issue or submit a pull request.
+* Contributions are welcome! If you have any suggestions or find any issues, please open an issue or submit a pull request.
 
 
